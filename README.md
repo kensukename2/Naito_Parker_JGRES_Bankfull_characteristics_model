@@ -9,13 +9,13 @@ Here, two numerical models that are presented in two research papers submitted t
 The models describe reach-characteristics spatiotemporal co-evolution of bankfull characteristics (i.e. bankfull dishcarge, bankfull width, bankfull depth and down-channel slope) are provided herein. 
 
 
-### Part 1: Base run
+#### Part 1: Base run
 
 Here, the model and its products as well as its input flow duration curve are provided. 
 The model is implemented for the case of Trinity River near Romayor, TX, USA to demonstrate fundamental behavior of the model. 
 
 
-### Part 2: Alteration of flow duration curve
+#### Part 2: Alteration of flow duration curve
 
 Here the model and its products as well as its input flow duration curves are provided. 
 The model is implemented for the case of Minnesota River near Jordan, MN, USA to demonstrate the potential application of the model. 
