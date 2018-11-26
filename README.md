@@ -13,13 +13,13 @@ The model is written with Python 2.7. However, it is developed in such a way tha
 
 #### Part 1: Base run
 
-Here the model, model products as well as a model-input flow duration curve are provided. 
+[Here](./Part1_Base_run) the model, model products as well as a model-input flow duration curve are provided. 
 The model is implemented for the case of Trinity River near Romayor, TX, USA to demonstrate fundamental behavior of the model. 
 
 
 #### Part 2: Alteration of flow duration curve
 
-Here the model, its products as well as model-input flow duration curves are provided. 
+[Here](./Part2_FDC_alteration) the model, its products as well as model-input flow duration curves are provided. 
 The model is implemented for the case of Minnesota River near Jordan, MN, USA to demonstrate the potential application of the model. 
 It is designed to examine the effect of the alteration in the flow duration curve on the bankfull channel characteristics. 
 Since the analysis focuses on rapid channel cross-section (width and depth) deformation, longitudinal channel slope is specified and fixed. 
