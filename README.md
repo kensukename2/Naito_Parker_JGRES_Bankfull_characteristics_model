@@ -27,6 +27,8 @@ Since the analysis focuses on rapid channel cross-section (width and depth) defo
 
 ## Related papers
 
-Naito, K., & Parker, G. (submitted). Can Bankfull Discharge and Bankfull Channel Characteristics of an Alluvial River be Co-specified from the Flow Duration Curve? Part 2: Application to the Minnesota River, USA. Journal of Geophysical Research: Earth Surface. Submitted in December 2018.
+Naito, K., & Parker, G. (submitted). Can Bankfull Discharge and Bankfull Channel Characteristics of an Alluvial River be Co-specified from the Flow Duration Curve?. Journal of Geophysical Research: Earth Surface. Submitted in December 2018.
 
-Naito, K., & Parker, G. (submitted). Can Bankfull Discharge and Bankfull Channel Characteristics of an Alluvial River be Co-specified from the Flow Duration Curve? Part 1: Framework for Analysis. Journal of Geophysical Research: Earth Surface. Submitted in December 2018.
+Naito, K., & Parker, G. (in preparation). Bankfull channel deformation and its timescale: modeling study (tentative title). Earth Surface Processes and Landforms. Submitted in December 2019.
+
+
